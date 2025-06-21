@@ -15,7 +15,7 @@
 - Person 5:   - Helped with testing and Setup
 
 
-## Expected Output:
+# Expected Output:
 Addition: 15
 Subtraction: 5
 Multiplication: 50
