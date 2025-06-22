@@ -11,7 +11,7 @@
 - Person 1: Mitali - Add.java  
 - Person 2: Wania Tajammal - Subtract.java and SimpleCalculator.java
 - Person 3: Madhuri - Multiplication.java
-- Person 4: Jonathan - Helped with testing and Setup
+- Person 4 and 5: Jonathan, Raiyan - Helped with testing and Setup
 
 
 # Expected Output:
