@@ -10,7 +10,7 @@
 ## Team Members
 - Person 1: Mitali - Add.java  
 - Person 2: Wania - Subtract.java  
-- Person 3:  - Multiplication.java
+- Person 3: Madhuri - Multiplication.java
 - Person 4:  - SimpleCalculator.java
 - Person 5:   - Helped with testing and Setup
 
