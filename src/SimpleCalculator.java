@@ -6,6 +6,7 @@ public class SimpleCalculator {
         System.out.println("Addition: " + add(a, b));
         System.out.println("Subtraction: " + subtract(a, b));
         //System.out.println("Multiplication: " + multiply(a, b));
+        // Testing 123
     }
 
 
