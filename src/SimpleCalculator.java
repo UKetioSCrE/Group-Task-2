@@ -3,9 +3,9 @@ public class SimpleCalculator {
         int a = 10;
         int b = 5;
 
-        System.out.println("Addition: " + add(a, b));
-        System.out.println("Subtraction: " + subtract(a, b));
-        //System.out.println("Multiplication: " + multiply(a, b));
+        System.out.println("Addition: " + Add.add(a, b));
+        System.out.println("Subtraction: " + Subtract.subtract(a, b));
+        System.out.println("Multiplication: " + Multiplication.multiply(a, b));
     }
 
 
